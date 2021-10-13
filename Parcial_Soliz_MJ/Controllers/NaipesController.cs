@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Parcial_Soliz_MJ.Data;
-using Parcial_Soliz_MJ.Naipe;
+using Parcial_Soliz_MJ.Naipes;
 
 namespace Parcial_Soliz_MJ.Controllers
 {
